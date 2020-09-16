@@ -4,3 +4,7 @@ jssecacerts
 .idea
 out/*
 *.iml
+*.project
+*.settings
+*.classpath
+target
